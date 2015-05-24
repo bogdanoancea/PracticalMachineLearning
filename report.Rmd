@@ -1,14 +1,9 @@
-Title
 ========================================================
 
 ---
 title: Practical Machine Learning Project - Quantified Self Movement Data Analysis
   Report
 author: "Bogdan Oancea"
-output:
-  html_document:
-    fig_height: 9
-    fig_width: 9
 ---
 
 ## Introduction  
