@@ -1,5 +1,3 @@
-========================================================
-
 ---
 title: Practical Machine Learning Project - Quantified Self Movement Data Analysis
   Report
