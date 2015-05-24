@@ -2,7 +2,7 @@
 title: Practical Machine Learning Project - Quantified Self Movement Data Analysis
   Report
 author: "Bogdan Oancea"
-output: html_document
+output: pdf_document
 ---
 
 ## Introduction  
