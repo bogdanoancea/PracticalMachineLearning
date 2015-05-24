@@ -2,6 +2,7 @@
 title: Practical Machine Learning Project - Quantified Self Movement Data Analysis
   Report
 author: "Bogdan Oancea"
+output: html_document
 ---
 
 ## Introduction  
@@ -37,8 +38,8 @@ if (!file.exists(testFile)) {
 ### B. Read the Datasets into dataframe objects
 We can read now the two .csv files into two dataframe objects.  
 ```{r, cache = T}
-trainRaw <- read.csv("./data/pml-training.csv")
-testRaw <- read.csv("./data/pml-testing.csv")
+trainRaw <- read.csv("./datasets/pml-training.csv")
+testRaw <- read.csv("./datasets/pml-testing.csv")
 dim(trainRaw)
 dim(testRaw)
 ```
